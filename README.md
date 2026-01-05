@@ -39,9 +39,22 @@
 
 ## 💻 安裝與執行 (Installation)
 
-### 1. 啟動 Web Dashboard
+### 1. 啟動 Coral 辨識端
 ```bash
 cd Edge_ACS
 pip install -r ../requirements.txt
 python3 rfid.py
 python3 face_recon.py
+```
+
+🎥 成果展示
+(https://youtu.be/fJJJLVSIxjg)
+
+點擊上方圖片觀看完整操作影片
+
+👨‍💻 開發團隊
+{B11223210} {連家菱} - 系統流程
+
+{B11223212} {黃靖傑} - Coral 部署
+
+{B11223227} {李翔益} - 負責 AI 模型訓練
